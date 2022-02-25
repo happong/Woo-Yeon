@@ -1,7 +1,7 @@
-/Saved
-/Intermediate
-/.vs
-/Build
-/Plugins
+/MyLittleWitch/Saved
+/MyLittleWitch/Intermediate
+/MyLittleWitch/.vs
+/MyLittleWitch/Build
+/MyLittleWitch/Plugins
 *.sln
 *_BuiltData.uasset
